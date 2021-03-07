@@ -16,7 +16,7 @@ I aspire to become a front-end developer. I learn the material quickly. I always
 - HTML
 - CSS
 - JS
-- Git + Github
+- Git&Github
 - Figma
 
 **Experience**
