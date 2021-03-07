@@ -2,7 +2,7 @@
 
 **Contacts**
 
-- +375(44)741-79-00 - A1
+- +375(44)741-79-00 (A1)
 - @Karina1206 - telegram
 
 **About me**
